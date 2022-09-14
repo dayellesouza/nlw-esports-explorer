@@ -10,4 +10,4 @@ Game hub, um site centralizador de links, no estilo Linktree, feito especialment
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/dayellesouza/nlw-esports-explorer/blob/master/assets/img/screenshot_modelo.png)
