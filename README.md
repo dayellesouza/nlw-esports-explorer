@@ -2,12 +2,16 @@
 
 Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.
 
+![Preview](./assets/img/screenshot_modelo.png)
 
-## Stack utilizada
-
-**Front-end:** HTML, CSS
+[Clique aqui para acessar](https://dayellesouza.github.io/nlw-esports-explorer/)
 
 
-## Screenshots
+## 🛠 Tecnologias
 
-![App Screenshot](https://github.com/dayellesouza/nlw-esports-explorer/blob/master/assets/img/screenshot_modelo.png)
+- HTML 5
+- CSS 3
+- Git e Github
+
+## 💜 Contato
+dayelle1557@hotmail.com
